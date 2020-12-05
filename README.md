@@ -1,4 +1,5 @@
 # node-js-getting-started
+# Spike Spiegel node.js Getting Started
 
 A barebones Node.js app using [Express 4](http://expressjs.com/).
 
